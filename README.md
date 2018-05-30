@@ -13,9 +13,9 @@ p5 is a library for Javascript that brings the power of [Processing](https://pro
 ### How to get started:
 1. Clone this repo.
 2. Open the directory in your text editor of choice.
-3. Copy and paste the file path of "index.html" file into your web browser's address bar.
+3. Copy and paste the file path of the "index.html" file into your web browser's address bar.
 4. Edit your "sketch.js" file and refresh the browser page to view changes.
-5. Repeat step 4 until you are satisfied with the results.
+5. Repeat step four until you are satisfied with the results.
 
 ### Resources:
 -[p5 Website for references and examples](https://p5js.org/)
