@@ -4,6 +4,7 @@
 Creative coding is the process of using computer programming as a tool for art and design. There is a long history of people using computers to make art dating back as far as the 1950s when Ben Laposky made photographs of patterns he created using an oscilloscope.
 
 ![Artwork by Ben Laposky](http://www.vam.ac.uk/__data/assets/image/0019/211816/58360-large.jpg "Artwork by Ben Laposky")
+
 Ben Laposky, 'Oscillon 40', 1952. Image from [V&A](http://www.vam.ac.uk/content/articles/a/computer-art-history/)
 
 ### What is p5?
