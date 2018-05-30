@@ -1,10 +1,13 @@
 ## Creative Coding with p5
 
-Creative coding is the process of using computer programming as a tool for art and design. There is a long history of people using computers to make art dating back as far as the 1950s when
+###What is creative coding?
+Creative coding is the process of using computer programming as a tool for art and design. There is a long history of people using computers to make art dating back as far as the 1950s when Ben Laposky made photographs of patterns he created using an oscilloscope.
 
 ![Artwork by Ben Laposky](http://www.vam.ac.uk/__data/assets/image/0019/211816/58360-large.jpg "Artwork by Ben Laposky")
+Ben Laposky, 'Oscillon 40', 1952. Image from [V&A](http://www.vam.ac.uk/content/articles/a/computer-art-history/) 
 
-p5 is a library for Javascript that brings the power of [Processing](https://processing.org/) to the web. With basic knowledge of Javascript, p5 makes it easy to get started creating visual and aduio experiences on the web
+###What is p5?
+p5 is a library for Javascript that brings the power of [Processing](https://processing.org/) to the web. With basic knowledge of Javascript, p5 makes it easy to get started creating visual and audio experiences in the browser by using the html5 canvas element.
 
 ### How to get started:
 1. Clone this repo.
