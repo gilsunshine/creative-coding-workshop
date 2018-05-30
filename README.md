@@ -1,6 +1,10 @@
 ## Creative Coding with p5
 
-Creative coding is the process of using computer programming as a tool for art and design. p5 is a library for Javascript that brings the power of [Processing](https://processing.org/) to the web.
+Creative coding is the process of using computer programming as a tool for art and design. There is a long history of people using computers to make art dating back as far as the 1950s when
+
+![Artwork by Ben Laposky](http://www.vam.ac.uk/__data/assets/image/0019/211816/58360-large.jpg "Artwork by Ben Laposky")
+
+p5 is a library for Javascript that brings the power of [Processing](https://processing.org/) to the web. With basic knowledge of Javascript, p5 makes it easy to get started creating visual and aduio experiences on the web
 
 ### How to get started:
 1. Clone this repo.
